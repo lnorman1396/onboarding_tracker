@@ -1,0 +1,6 @@
+fpdf==1.7.2
+fpdf2==2.5.7
+hydralit_components==1.0.10
+pandas==1.4.2
+streamlit==1.14.0
+streamlit_card==0.0.3
