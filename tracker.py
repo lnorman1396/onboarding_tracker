@@ -1056,3 +1056,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+# 1. Extend to Optimisations (a lot of info)
+    # What GCs have we done and all exceptions
+# 2. IMPORTANT - Approval process
