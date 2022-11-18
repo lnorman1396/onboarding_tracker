@@ -1064,5 +1064,17 @@ if __name__ == '__main__':
     # What GCs have we done and all exceptions
 # 2. IMPORTANT - Approval process
     # Report configs:
-        # 1 Export for clients
+        # 1 Export for clients - weekly external
         # 2 Export for internal purposes - Harry to check how he'd like to see the reports as (approved, comments, dates?)
+
+####
+
+# Add the following:
+    # Data Migration
+    # Benchmark Comparison
+    # Optimizations result table
+        # Link to schedule for internal purposes (already in the form above)
+    #### ANY DELIVERABLES ####
+
+# Store document in the Drive and link them to the app instead of uploading
+    # Ensure max. characters in PostgresSQL
