@@ -1063,3 +1063,6 @@ if __name__ == '__main__':
 # 1. Extend to Optimisations (a lot of info)
     # What GCs have we done and all exceptions
 # 2. IMPORTANT - Approval process
+    # Report configs:
+        # 1 Export for clients
+        # 2 Export for internal purposes - Harry to check how he'd like to see the reports as (approved, comments, dates?)
